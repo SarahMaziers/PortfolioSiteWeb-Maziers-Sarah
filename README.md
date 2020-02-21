@@ -14,9 +14,13 @@ La structure du site
 En résumé, mon site se composerait donc d’
 
 •	Une « boarding page » (chargement de logo, celui-ci se dessinerait progressivement)
+
 •	La page d’accueil avec navigation et texte : « bienvenue dans mon univers » par ex. Les différents menus seraient représentés par des planètes/étoiles voire partie du système solaire. On passerait de l’une à l’autre soit par scroll horizontal soit les planètes seraient dans un univers 3D. Lorsqu’on cliquerait la planete se rapprocherait jusqu’à passer à la page demandée.
+
 •	Une page « projets » avec photos qui au click mèneraient vers diverses pages de présentation
+
 •	Une page « about » avec présentation et cv
+
 •	Une page « contact » avec formulaire proposant diverses raisons de contact
 
 Contenu
