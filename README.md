@@ -63,8 +63,14 @@ Un des plus gros challenges pour ce site sera de faire en sorte que le site rest
 		• 1600px de large pour desktop
 
 		• Version mobile 320px de large
-
-		• Référencement
+		
+		• Référencement (SEO)
+		
+Choix de mots-clés à cibler pour chacune des pages à référencer
+Ne pas utiliser de mots-clés trop différents les uns des autres pour une même page, cohérence
+Le contenu rédactionnel est très important car indique aux moteurs de recherche de quoi on parle (optimisation de contenu)
+Optimiser son code HTML : balise title, méta-données, url, la balise Meta description, charset, les titres hiérachiques, le contenu, les images, les ancres (redirections), les micros-datas, méta-OG, alt, mots-clés en début de texte, Chaque page doit contenir au minimum 200 mots, mettre mots-clés en gras...
+https://www.seoquantum.com/billet/recherche-mots-cles
 
 
 5) Moodboard
