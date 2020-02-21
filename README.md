@@ -28,33 +28,47 @@ Contenu
 En bref, utilisation de 2 polices : une pour les headings, l’autre pour le body. Utilisation de Google fonts (polices open source) comme pour les titres Megrim, et Josephin Slab pour le corps de texte.
 D’autres combinaisons rappelant le futurisme telles que Orbitron bold/Roboto Slab, Geostar Fill/Fira Sans condensed, Stalinist One/Merryweather, Syncopate/Oswald, Wallpoet/Merryweather, Revalia/Crimson Text sont également possibles.
 Site sombre : arrière-plan en violet foncé, peut-être quelques portions de textes en vert ou simplement les headings. Utilisation de l’orange lors des roll-over.
-Mouvement léger de l’arrière-plan coordonné avec la souris  effet de parallaxe
+Mouvement léger de l’arrière-plan coordonné avec la souris : effet de parallaxe
 Animation « vaisseau » pour passer d’un menu à l’autre + Menu vertical ou horizontal mais doit montrer la progression + sticky
 Effet « typing »
 Faire en sorte qu’il y ait des transitions légèress
 A la sélection d’une planète, le nom du menu correspondant apparaitrait
 Menu 360% si possible ? Texte légèrement courbé du coup
 
+
 Stratégie
 
 • Sans Javascript
+
 • Un des plus gros challenges pour ce site sera de faire en sorte que le site reste accessible et interactif en l’absence Javascript       mais aussi de mettre en place toutes les animations que j’ai pu imaginer.
+
 • Utilisation de polices open source pour éviter les problèmes de droits d’auteur.
+
 • Navigation
+
 • Prévoir scroll infini pour menu de navigation
+
 • Penser version desktop, version mobile, voire version tablette
+
 • 1600px de large pour desktop
+
 • Version mobile 320px de large
+
 • Référencement
 
+
 Moodboard
+
 https://sarahm443369.invisionapp.com/board/CV-ck6byu8zg000i18umbw0capta?v=EyyeHYyaimrUhikAB2oIlw%3D%3D&linkshare=urlcopied
 
-(Notes persos
--->Wireframe
+(Notes persos -->Wireframe
+
   • Pas de couleurs
+  
   • Pas de typos ou utiliser helvetica ou Arial
-  • Positionner les éléments, calibrer espace disponible  besoin d’une grille
-  • Chercher exemples de sites dont on aime bien la grille
+  
+  • Positionner les éléments, calibrer espace disponible : besoin d’une grille
+  
+  • Chercher exemples de sites dont on aime bien la grille)
 
 
