@@ -48,7 +48,7 @@ En résumé, mon site se composerait donc d’
 
 4) Stratégie
 
-Un des plus gros challenges pour ce site sera de faire en sorte que le site reste accessible et interactif en l’absence Javascript       mais aussi de mettre en place toutes les animations que j’ai pu imaginer.
+Un des plus gros challenges pour ce site sera de faire en sorte que le site reste accessible et interactif en l’absence de Javascript       mais aussi de mettre en place toutes les animations que j’ai pu imaginer.
 
 		• Sans Javascript
 
@@ -80,6 +80,6 @@ https://sarahm443369.invisionapp.com/board/CV-ck6byu8zg000i18umbw0capta?v=EyyeHY
 
 			• Positionner les éléments, calibrer espace disponible : besoin d’une grille
 
-			• Chercher exemples de sites dont on aime bien la grille)
+			• Chercher exemples de sites dont on aime bien la grille
 
 
