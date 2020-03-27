@@ -14,57 +14,57 @@ Lorsqu’on arriverait sur mon site, il y aurait une sorte de chargement avec un
 2) La structure du site
 
 En résumé, mon site se composerait donc d’
+	
+•	Une « boarding page » (chargement de logo, celui-ci se dessinerait progressivement)
 
-		•	Une « boarding page » (chargement de logo, celui-ci se dessinerait progressivement)
+•	La page d’accueil avec navigation et texte : « bienvenue dans mon univers » par ex. Les différents menus seraient représentés par des planètes/étoiles voire partie du système solaire. On passerait de l’une à l’autre soit par scroll horizontal soit les planètes seraient dans un univers 3D. Lorsqu’on cliquerait la planete se rapprocherait jusqu’à passer à la page demandée.
 
-		•	La page d’accueil avec navigation et texte : « bienvenue dans mon univers » par ex. Les différents menus seraient représentés par des planètes/étoiles voire partie du système solaire. On passerait de l’une à l’autre soit par scroll horizontal soit les planètes seraient dans un univers 3D. Lorsqu’on cliquerait la planete se rapprocherait jusqu’à passer à la page demandée.
+•	Une page « projets » avec photos qui au click mèneraient vers diverses pages de présentation
 
-		•	Une page « projets » avec photos qui au click mèneraient vers diverses pages de présentation
+•	Une page « about » avec présentation et cv
 
-		•	Une page « about » avec présentation et cv
-
-		•	Une page « contact » avec formulaire proposant diverses raisons de contact
+•	Une page « contact » avec formulaire proposant diverses raisons de contact
 
 
 3) Contenu
 
-		• En bref, utilisation de 2 polices : une pour les headings, l’autre pour le body. Utilisation de Google fonts (polices open source) comme pour les titres Megrim, et Josephin Slab pour le corps de texte.
+• En bref, utilisation de 2 polices : une pour les headings, l’autre pour le body. Utilisation de Google fonts (polices open source) comme pour les titres Megrim, et Josephin Slab pour le corps de texte.
 			D’autres combinaisons rappelant le futurisme telles que Orbitron bold/Roboto Slab, Geostar Fill/Fira Sans condensed, Stalinist One/Merryweather, Syncopate/Oswald, Wallpoet/Merryweather, Revalia/Crimson Text sont également possibles.
 
-		• Site sombre : arrière-plan en violet foncé, peut-être quelques portions de textes en vert ou simplement les headings. Utilisation de l’orange lors des roll-over.
+• Site sombre : arrière-plan en violet foncé, peut-être quelques portions de textes en vert ou simplement les headings. Utilisation de l’orange lors des roll-over.
 
-		• Mouvement léger de l’arrière-plan coordonné avec la souris : effet de parallaxe
+• Mouvement léger de l’arrière-plan coordonné avec la souris : effet de parallaxe
 
-		• Animation « vaisseau » pour passer d’un menu à l’autre + Menu vertical ou horizontal mais doit montrer la progression + sticky
+• Animation « vaisseau » pour passer d’un menu à l’autre + Menu vertical ou horizontal mais doit montrer la progression + sticky
 
-		• Effet « typing »
+• Effet « typing »
 
-		• Faire en sorte qu’il y ait des transitions légèress
+• Faire en sorte qu’il y ait des transitions légèress
 
-		• A la sélection d’une planète, le nom du menu correspondant apparaitrait
+• A la sélection d’une planète, le nom du menu correspondant apparaitrait
 
-		• Menu 360% si possible ? Texte légèrement courbé du coup
+• Menu 360% si possible ? Texte légèrement courbé du coup
 
 
 4) Stratégie
 
 Un des plus gros challenges pour ce site sera de faire en sorte que le site reste accessible et interactif en l’absence de Javascript       mais aussi de mettre en place toutes les animations que j’ai pu imaginer.
 
-		• Sans Javascript
+• Sans Javascript
 
-		• Utilisation de polices open source pour éviter les problèmes de droits d’auteur.
+• Utilisation de polices open source pour éviter les problèmes de droits d’auteur.
 
-		• Navigation
+• Navigation
 
-		• Prévoir scroll infini pour menu de navigation
+• Prévoir scroll infini pour menu de navigation
 
-		• Penser version desktop, version mobile, voire version tablette
+• Penser version desktop, version mobile, voire version tablette
 
-		• 1600px de large pour desktop
+• 1600px de large pour desktop
 
-		• Version mobile 320px de large
+• Version mobile 320px de large
 		
-		• Référencement (SEO)
+• Référencement (SEO)
 		
 Choix de mots-clés à cibler pour chacune des pages à référencer
 Ne pas utiliser de mots-clés trop différents les uns des autres pour une même page, cohérence
@@ -75,16 +75,16 @@ https://www.seoquantum.com/billet/recherche-mots-cles
 
 5) Moodboard
 
-https://sarahm443369.invisionapp.com/space/Clipo-ck4jtfhi8uzdc0p67avan2fmn?v=EyyeHYyaimrUhikAB2oIlw%3D%3D&linkshare=urlcopied
+https://sarahm443369.invisionapp.com/board/Portfolio---Site-Web-ck6byu8zg000i18umbw0capta?v=EyyeHYyaimrUhikAB2oIlw%3D%3D&linkshare=urlcopied
 
 6) Notes persos -->Wireframe
 
-			• Pas de couleurs
+• Pas de couleurs
 
-			• Pas de typos ou utiliser helvetica ou Arial
+• Pas de typos ou utiliser helvetica ou Arial
 
-			• Positionner les éléments, calibrer espace disponible : besoin d’une grille
+• Positionner les éléments, calibrer espace disponible : besoin d’une grille
 
-			• Chercher exemples de sites dont on aime bien la grille
+• Chercher exemples de sites dont on aime bien la grille
 
 
