@@ -3,7 +3,7 @@
 Portfolio – mon site web
 
 
-1) Le concept
+1) Le concept - à réécrire
 
 Le concept du site serait un thème d’univers futuriste/digital (se passerait dans l’espace).
 Pour cela, utilisation d’une couleur violette en fond avec un arrière-plan abstrait (formes géométrique) et quelques éléments en couleur verte. Les « call-to-action » seraient en orange.
