@@ -72,12 +72,18 @@ Le contenu rédactionnel est très important car indique aux moteurs de recherch
 Optimiser son code HTML : balise title, méta-données, url, la balise Meta description, charset, les titres hiérachiques, le contenu, les images, les ancres (redirections), les micros-datas, méta-OG, alt, mots-clés en début de texte, Chaque page doit contenir au minimum 200 mots, mettre mots-clés en gras...
 https://www.seoquantum.com/billet/recherche-mots-cles
 
+5) Plan de site
+- Home
+- About
+- Projets
+	- Une page de présentatin par projet
+- Contact
 
-5) Moodboard
+6) Moodboard
 
 https://app.milanote.com/1Ld0qg1xoMCEeI?p=TPCFnHRCIKC
 
-6) Notes persos -->Wireframe
+7) Notes persos -->Wireframe
 
 • Pas de couleurs
 
