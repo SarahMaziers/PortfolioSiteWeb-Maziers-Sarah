@@ -9,7 +9,7 @@ Le concept du site est celui d’un thème d’univers futuriste/digital (se pas
 
 
 ## 2) La stratégie
-
+- Stratégie de design : desktop-first. Un recruteur sera plutot assis à son bureau avec un ordinateur lorsqu'il recrutera. 
 Lorsqu’on arrivera sur mon site, il y aura tout d’abord une sorte de chargement avec un dessin de mon logo. Sur la page il y aura la possibilité de passer du Français à l’Anglais et inversement. L’arrière-plan abstrait bougera légèrement en fonction du mouvement de la souris.
 La landing page affichera de manière originale des liens vers mes projets. Elle sera faite en 3D (WebGL). Le principe sera de pouvoir naviguer entre les différents projets grâce au scroll et aux flèches du clavier. Les projets seront représentés par des planètes qui seront cliquables et mèneront vers les pages de présentation de chaque projet. Au survol de la planète, celle-ci se mettra à battre pour indiquer qu’on peut interagir avec elle, la cliquer. Lors d’un clic sur une planète, un zoom sur celle-ci se fera en guise de transition entre cette page et la page de présentation du projet.
 Il y aura un menu sur le haut de la page reprenant : la page accueil, à propos, projets et contact. Des liens vers mon github, linkedin, dribbble, instagram, Twitter, Invision et Milanote seront également présents dans ce header.
@@ -43,7 +43,6 @@ Enfin, il y aura la page de contact avec un menu mais pas de footer sur laquelle
 
 • A la sélection d’une planète, le nom du menu correspondant apparaitrait
 
-
 Un des plus gros challenges pour ce site sera de faire en sorte que le site reste accessible et interactif en l’absence de Javascript       mais aussi de mettre en place toutes les animations que j’ai pu imaginer.
 
 • Sans Javascript
@@ -55,10 +54,6 @@ Un des plus gros challenges pour ce site sera de faire en sorte que le site rest
 • Prévoir scroll infini pour menu de navigation
 
 • Penser version desktop, version mobile, voire version tablette
-
-• 1600px de large pour desktop
-
-• Version mobile 320px de large
 		
 • Référencement (SEO)
 		
