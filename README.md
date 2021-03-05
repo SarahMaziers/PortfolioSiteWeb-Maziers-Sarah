@@ -31,7 +31,7 @@ Enfin, il y aura la page de contact avec un menu mais pas de footer sur laquelle
 ### Le contenu
 
 • En bref, utilisation de 2 polices : une pour les headings, l’autre pour le body. Utilisation de Google fonts (polices open source) comme pour les titres Megrim, et Josephin Slab pour le corps de texte.
-			D’autres combinaisons rappelant le futurisme telles que Orbitron bold/Roboto Slab, Geostar Fill/Fira Sans condensed, Stalinist One/Merryweather, Syncopate/Oswald, Wallpoet/Merryweather, Revalia/Crimson Text sont également possibles.
+D’autres combinaisons rappelant le futurisme telles que Orbitron bold/Roboto Slab, Geostar Fill/Fira Sans condensed, Stalinist One/Merryweather, Syncopate/Oswald, Wallpoet/Merryweather, Revalia/Crimson Text sont également possibles.
 
 • Site sombre : arrière-plan en violet foncé, peut-être quelques portions de textes en vert ou simplement les headings. Utilisation de l’orange lors des roll-over.
 
@@ -72,7 +72,7 @@ En résumé, mon site se composerait donc d’
 - Une page de chargement dans laquelle mon logo se dessinerait progressivement
 
 - La page d’accueil avec navigation et texte : Les différents projets seront représentés par des planètes. On passera de l’un à l’autre grâce au scroll. Les planètes seront dans un univers 3D. Lorsqu’on cliquera sur une planète, celle-ci se rapprochera jusqu’à passer à la page demandée.
-- 
+
 - Une page « about » avec présentation et cv
 
 - Une page « projets » avec photos et overlay au survol qui au click mèneraient respectivement vers les diverses pages de présentation de projet
