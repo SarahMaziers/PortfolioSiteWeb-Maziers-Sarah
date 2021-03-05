@@ -43,7 +43,7 @@ Enfin, il y aura la page de contact avec un menu mais pas de footer sur laquelle
 
 • A la sélection d’une planète, le nom du menu correspondant apparaitrait
 
-Un des plus gros challenges pour ce site sera de faire en sorte que le site reste accessible et interactif en l’absence de Javascript       mais aussi de mettre en place toutes les animations que j’ai pu imaginer.
+Un des plus gros challenges pour ce site sera de faire en sorte que le site reste accessible et interactif en l’absence de Javascript mais aussi de mettre en place toutes les animations que j’ai pu imaginer.
 
 • Sans Javascript
 
@@ -74,14 +74,15 @@ En résumé, mon site se composerait donc d’
 - Une page « about » avec présentation et cv
 
 - Une page « projets » avec photos et overlay au survol qui au click mèneraient respectivement vers les diverses pages de présentation de projet
-	- Une page de présentatin par projet
-	- 
+	- Une page de présentation par projet
+	
 - Une page « contact » avec formulaire proposant diverses raisons de contact
 
 
 ## 4) Moodboard
 
 https://app.milanote.com/1Ld0qg1xoMCEeI?p=TPCFnHRCIKC
+
 
 ## 5) Notes personnelles pour faire un bon wireframe
 
